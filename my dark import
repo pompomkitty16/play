@@ -1,5 +1,5 @@
 #app-mount {
-	background: url('https://github.com/pompomkitty16/play/blob/55719e4a7f949e9de4d88a2f306d346432a798c5/-my-dark-theme.png')
+	background: url('https://raw.githubusercontent.com/pompomkitty16/play/main/master/assets/wallpapers/-my-dark-theme.png')
 		center/cover no-repeat;
 }
 
